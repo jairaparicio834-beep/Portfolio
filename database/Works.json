@@ -1,23 +1,23 @@
 [
   {
-    "title": "Hotspot Café",
-    "image": "/reference/hotspot-project.webp",
-    "description": "Designed and developed a modern, animated website using React for a local café business, featuring smooth UI animations and transitions to enhance user engagement and visual appeal. Check it out at https://hotspot22.cz/",
-    "date": "Jan 2025",
-    "type": "Commercial Project"
-  },
-  {
-    "title": "Fosum Classic Cars",
-    "image": "/reference/fosum-project.webp",
-    "description": "Developed a sleek, animated React landing page for classic cars, a company specializing in high-end vintage vehicles, featuring a showroom reservation form that simplifies booking visits and improves customer engagement. Check it out at https://fochum.love2do.cz/",
-    "date": "May 2025",
-    "type": "Commercial Project"
-  },
-  {
     "title": "Hollywood AI",
     "image": "/reference/hollywoodai.png",
     "description": "Developed and deployed a user-friendly platform for AI-powered film summaries, achieving a 95% satisfaction rate based on feedback on accuracy and readability, using Next.js. TypeScript, Firebase. Check it out at https://hollywoodai.vercel.app",
-    "date": "Jun 2025",
+    "date": "Feb 2024",
+    "type": "Personal Project"
+  },
+  {
+    "title": "Everest NFT Marketplace",
+    "image": "/reference/everestnft.png",
+    "description": "Transformed a static single-page application into an interactive UI with animations, transitions, and carousels, utilising Axios for dynamic data representation. Employed Git for version control and collaboration. Check it out at https://remote-internship-finished.vercel.app",
+    "date": "Jan 2024",
+    "type": "Frontend Developer Internship"
+  },
+  {
+    "title": "Social Media App",
+    "image": "/reference/socialmediaapp.png",
+    "description": "Developed a full-stack social media app with features like posts, post feeds, likes, modals, and authentication, using Firebase for database management. Check it out at https://social-media-app-pink.vercel.app",
+    "date": "Dec 2023",
     "type": "Personal Project"
   }
 ]

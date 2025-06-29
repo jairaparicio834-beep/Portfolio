@@ -63,7 +63,7 @@ export default function BoldTitle() {
     <section className={styles.section} id="#about">
       <Container className={styles.grid}>
         <TextReveal className={styles.paragraph}>
-          I am currently a Co-founder and a frontend developer at Love2Do, where
+          I currently work for Aurora Web Studio as a frontend developer, where
           I tackle extremely difficult engineering problems every day. I
           continuously work towards improving my knowledge and skills so I can
           contribute more to the business.

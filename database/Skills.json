@@ -68,19 +68,5 @@
     "title": "Development Env.",
     "subtitle": "Webpack",
     "description": "I use tools like Webpack, Vite, NPM, Yarn to streamline workflows, automating development for efficiency."
-  },
-  {
-    "icon": "IconFirebase",
-    "image": "/icon/icon-firebase.svg",
-    "title": "Firebase",
-    "subtitle": "Database Management, Authentication",
-    "description": "Platform developed by Google for creating mobile and web applications."
-  },
-  {
-    "icon": "IconFirebase",
-    "image": "/icon/icon-firebase.svg",
-    "title": "Firebase",
-    "subtitle": "Database Management, Authentication",
-    "description": "Platform developed by Google for creating mobile and web applications."
   }
 ]

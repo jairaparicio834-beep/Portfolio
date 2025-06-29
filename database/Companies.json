@@ -1,23 +1,31 @@
 [
   {
-    "position": "Frontend Developer",
-    "company": "Aurora Web Studio",
-    "duration": "Dec 2024 – Present",
+    "position": "Co-Founder & Frontend Developer",
+    "company": "Love2Do",
+    "duration": "Aug 2024 - Present",
     "responsibilities": [
-      "Developed an internal troubleshooting tool with React and Firebase, boosting the support team’s efficiency by over 40%.",
-      "Enhanced client’s customer conversion by 30% by redesigning the checkout flow, migrating the database to Firebase, and developing the frontend with Next.js and Typescript.",
-      "Partnered with the COO to streamline client communication processes, resulting in a 30% reduction in client meetings and a 70% increase in team productivity by implementing efficient workflow solutions.",
+      "Delivered multiple professional websites using HTML5, CSS3 (+ SCSS, BEM), JavaScript, React and GSAP — setting a new design benchmark on the Czech web market and surpassing client expectations.",
+      "Improved website performance by optimising code, implementing caching, and lazy loading images and components, reducing load times by an average of 30% through Agile collaboration.",
+      "Enhanced websites with SEO, responsive design, multi-platform, and hosting support, ensuring accessibility across all browsers and devices, increasing traffic by an average of 22%."
+    ]
+  },
+  {
+    "position": "Frontend Developer Intern",
+    "company": "Aurora Web Studio",
+    "duration": "Apr 2024 - Jul 2024",
+    "responsibilities": [
+      "Developed an internal troubleshooting tool with React and Firebase, boosting the support team’s efficiencyby over 40%.",
+      "Enhanced client’s customer conversion by 30% by redesigning the checkout flow, migrating the database to Firebase, and developing the frontend with React and TypeScript.",
       "Developed a custom React hook to debounce search inputs, significantly reducing unnecessary RESTful API requests by 66%, leading to improved performance and efficiency on client SaaS platforms."
     ]
   },
   {
-    "position": "Freelance Frontend Developer",
-    "company": "Self Employed",
-    "duration": "May 2024 – Nov 2024",
+    "position": "Frontend Developer Intern",
+    "company": "Neoloop",
+    "duration": "Jan 2024 - Apr 2024",
     "responsibilities": [
-      "Delivered 5 professional websites using HTML5, CSS3 (+ SCSS, BEM), JavaScript, and React best practices, enhancing client satisfaction by adhering to industry standards.",
-      "Improved website performance by optimising code, implementing caching, and lazy loading images and components, reducing load times by an average of 32%.",
-      "Enhanced websites with SEO, responsive design, multi-platform, and hosting support, ensuring accessibility across all browsers and devices, increasing traffic by an average of 25%."
+      "Participated in daily code reviews, contributing to improvements in code quality, consistency and UI/UX.",
+      "Developed fully responsive websites using Svelte and Bootstrap for non-profit companies, ensuring cross-browser compatibility and fast performance across mobile and desktop devices."
     ]
   }
 ]

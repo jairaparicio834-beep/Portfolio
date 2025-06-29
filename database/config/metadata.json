@@ -1,28 +1,28 @@
 {
   "metadata": {
-    "name": "Salman",
-    "title": "Salman Awal - Frontend Developer",
-    "description": "Hey I'm Salman! I'm a Frontend Developer with a strong passion for building web applications with great user experiences.",
-    "timeZone": "Australia/Melbourne",
+    "name": "Matej",
+    "title": "Matej Vit - Frontend Developer",
+    "description": "Hey I'm Matej! I'm a Frontend Developer with a strong passion for building web applications with great user experiences.",
+    "timeZone": "Europe/Prague",
     "locale": "en-US"
   },
   "personal": {
-    "name": "Salman",
-    "surname": "Awal",
+    "name": "Matej",
+    "surname": "Vit",
     "role": "Frontend Developer",
-    "email": "me@salmanawal.com",
-    "phone": "+61477588043",
-    "city": "Melbourne",
+    "email": "me@matejvit.dev",
+    "phone": "+420704127857",
+    "city": "Prague",
     "state": "VIC",
-    "country": "AUS",
+    "country": "CZE",
     "resumeURL": "https://drive.google.com/file/d/13kjKTpYiP0EvixD43HjRszJOnfE9Gh8P/view?usp=sharing"
   },
   "social": {
-    "linkedin": "https://www.linkedin.com/in/salman-awal",
-    "github": "https://github.com",
-    "resume": "https://drive.google.com/file/d/13kjKTpYiP0EvixD43HjRszJOnfE9Gh8P/view?usp=sharing"
+    "linkedin": "https://www.linkedin.com/in/matej-vit/",
+    "github": "https://github.com/zurphus",
+    "resume": "https://drive.google.com/file/d/1iuGzxll-cUVmRfX0nt4RMwFli_qIxCdI/view?usp=sharing"
   },
   "content": {
-    "verse": "Copyright © 2025 Salman Awal"
+    "verse": "Copyright © 2025 Matej Vit"
   }
 }

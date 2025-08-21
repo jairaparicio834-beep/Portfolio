@@ -1,28 +1,28 @@
 {
   "metadata": {
-    "name": "Salman",
-    "title": "Salman Awal - Frontend Developer",
-    "description": "Hey I'm Salman! I'm a Frontend Developer with a strong passion for building web applications with great user experiences.",
-    "timeZone": "Australia/Melbourne",
+    "name": "Roberto",
+    "title": "Roberto Vega - Frontend Developer",
+    "description": "Hey I'm Roberto! I have a Bachelor Degree in Computer Science and I'm a Frontend Developer with a strong passion for building web applications with great user experiences.",
+    "timeZone": "America/New_York",
     "locale": "en-US"
   },
   "personal": {
-    "name": "Salman",
-    "surname": "Awal",
+    "name": "Roberto",
+    "surname": "Vega",
     "role": "Frontend Developer",
-    "email": "me@salmanawal.com",
-    "phone": "+61477588043",
-    "city": "Melbourne",
-    "state": "VIC",
-    "country": "AUS",
+    "email": "robvega945@gmail.com",
+    "phone": "+16094704182",
+    "city": "New Jersey",
+    "state": "NJ",
+    "country": "USA",
     "resumeURL": "https://drive.google.com/file/d/13kjKTpYiP0EvixD43HjRszJOnfE9Gh8P/view?usp=sharing"
   },
   "social": {
-    "linkedin": "https://www.linkedin.com/in/salman-awal",
-    "github": "https://github.com",
+    "linkedin": "https://www.linkedin.com/in/roberto-vega-593a71227/",
+    "github": "https://github.com/robertoV00",
     "resume": "https://drive.google.com/file/d/13kjKTpYiP0EvixD43HjRszJOnfE9Gh8P/view?usp=sharing"
   },
   "content": {
-    "verse": "Copyright © 2025 Salman Awal"
+    "verse": "Copyright © 2025 Roberto Vega"
   }
 }

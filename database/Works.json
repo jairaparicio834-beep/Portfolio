@@ -3,21 +3,21 @@
     "title": "Hollywood AI",
     "image": "/reference/hollywoodai.png",
     "description": "Developed and deployed a user-friendly platform for AI-powered film summaries, achieving a 95% satisfaction rate based on feedback on accuracy and readability, using Next.js. TypeScript, Firebase. Check it out at https://hollywoodai.vercel.app",
-    "date": "Nov 2025",
+    "date": "Aug 2025",
     "type": "Personal Project"
   },
   {
     "title": "Everest NFT Marketplace",
     "image": "/reference/everestnft.png",
     "description": "Transformed a static single-page application into an interactive UI with animations, transitions, and carousels, utilising Axios for dynamic data representation. Employed Git for version control and collaboration. Check it out at https://remote-internship-finished.vercel.app",
-    "date": "Oct 2025",
+    "date": "July 2025",
     "type": "Frontend Developer Internship"
   },
   {
     "title": "Social Media App",
     "image": "/reference/socialmediaapp.png",
     "description": "Developed a full-stack social media app with features like posts, post feeds, likes, modals, and authentication, using Firebase for database management. Check it out at https://social-media-app-pink.vercel.app",
-    "date": "Oct 2025",
+    "date": "July 2024",
     "type": "Personal Project"
   }
 ]

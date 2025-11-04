@@ -42,6 +42,13 @@
     "description": "Predictable state container for JavaScript apps, often used with React."
   },
   {
+    "icon": "IconZustand",
+    "image": "/icon/icon-zustand.svg",
+    "title": "Zustand",
+    "subtitle": "State Management",
+    "description": "Small, fast and scalable state management solution for React applications."
+  },
+  {
     "icon": "IconNextjs",
     "image": "/icon/icon-nextjs.svg",
     "title": "Next.JS",
@@ -61,6 +68,13 @@
     "title": "Firebase",
     "subtitle": "Database Management, Authentication",
     "description": "Platform developed by Google for creating mobile and web applications."
+  },
+  {
+    "icon": "IconPostgreSQL",
+    "image": "/icon/icon-postgresql.svg",
+    "title": "PostgreSQL",
+    "subtitle": "Relational Database Management System",
+    "description": "Powerful, open-source object-relational database system with strong reliability and data integrity."
   },
   {
     "icon": "IconWebpack",

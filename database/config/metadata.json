@@ -1,28 +1,28 @@
 {
   "metadata": {
-    "name": "Ilyas",
-    "title": "Ilyas - Frontend Developer",
-    "description": "Hey I'm Ilyas! I have a Bachelor Degree in Computer Science and I'm a Frontend Developer with a strong passion for building web applications with great user experiences.",
-    "timeZone": "America/New_York",
+    "name": "Nathan",
+    "title": "Nathan - Frontend Developer",
+    "description": "Hey I'm Nathan! I'm a Fullstack Developer with a strong passion for building web applications with great user experiences.",
+    "timeZone": "America/Los_Angeles",
     "locale": "en-US"
   },
   "personal": {
-    "name": "Ilyas",
-    "surname": "Isse",
-    "role": "Frontend Developer",
-    "email": "Ilyasisse574@gmail.com",
-    "phone": "+14044684254",
-    "city": "Atlanta",
-    "state": "GA",
+    "name": "Nathan",
+    "surname": "Marcellous",
+    "role": "Fullstack Developer",
+    "email": "me@nathanmarcellous.com",
+    "phone": "+19494129205",
+    "city": "Carlsbad",
+    "state": "CA",
     "country": "USA",
     "resumeURL": "https://drive.google.com/file/d/13kjKTpYiP0EvixD43HjRszJOnfE9Gh8P/view?usp=sharing"
   },
   "social": {
-    "linkedin": "https://www.linkedin.com/in/ilyas-isse/",
-    "github": "https://github.com/Ilyasisse",
-    "resume": "https://drive.google.com/drive/folders/1t20K2oQfhOTHVV1cHOkZyIgfVFDSPH8T?dmr=1&ec=wgc-drive-hero-goto"
+    "linkedin": "https://www.linkedin.com/in/nathan-marcellous/",
+    "github": "https://github.com/nathanmarcellous",
+    "resume": "https://docs.google.com/document/d/1o1bKkLsp57fkfd_C-_-xxnur6X1loS592L4ZmR9eKwk/edit?usp=sharing"
   },
   "content": {
-    "verse": "Copyright © 2025 Ilyas Isse"
+    "verse": "Copyright © 2025 Nathan Marcellous"
   }
 }

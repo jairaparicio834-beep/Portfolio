@@ -2,22 +2,22 @@
   {
     "position": "Frontend Developer",
     "company": "Aurora Web Studio",
-    "duration": "Apr 2025 – Present",
+    "duration": "Sep 2025 – Present",
     "responsibilities": [
-      "Developed an internal troubleshooting tool with React and Firebase, boosting the support team’s efficiency by over 40%.",
-      "Enhanced client’s customer conversion by 30% by redesigning the checkout flow, migrating the database to Firebase, and developing the frontend with Next.js and Typescript.",
-      "Partnered with the COO to streamline client communication processes, resulting in a 30% reduction in client meetings and a 70% increase in team productivity by implementing efficient workflow solutions.",
-      "Developed a custom React hook to debounce search inputs, significantly reducing unnecessary RESTful API requests by 66%, leading to improved performance and efficiency on client SaaS platforms."
+      "Engineered a custom internal diagnostic suite via React and Firebase, driving a 35% gain in support staff throughput.",
+      "Boosted user conversion rates by 25% through a checkout overhaul, Firebase migration, and a Next.js and TypeScript frontend.",
+      "Collaborated with the COO to refine communication flows, cutting meeting times by 20% and lifting output by 75% via new workflows.",
+      "Created a specialized React debounce hook for search queries, slashing API overhead by 60% to optimize SaaS platform responsiveness."
     ]
   },
   {
     "position": "Freelance Frontend Developer",
     "company": "Self Employed",
-    "duration": "July 2024 – March 2025",
+    "duration": "Feb 2025 – Jul 2025",
     "responsibilities": [
       "Delivered 5 professional websites using HTML5, CSS3 (+ SCSS, BEM), JavaScript, and React best practices, enhancing client satisfaction by adhering to industry standards.",
-      "Improved website performance by optimising code, implementing caching, and lazy loading images and components, reducing load times by an average of 32%.",
-      "Enhanced websites with SEO, responsive design, multi-platform, and hosting support, ensuring accessibility across all browsers and devices, increasing traffic by an average of 25%."
+      "Improved website performance by optimizing code, implementing caching, and lazy loading images and components, reducing load times by an average of 32%.",
+      "Enhanced websites with SEO, responsive design, multi-platform support, and hosting, ensuring accessibility across all browsers and devices and increasing traffic by an average of 25%."
     ]
   }
 ]

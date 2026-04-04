@@ -1,28 +1,28 @@
 {
   "metadata": {
-    "name": "Jibrian Goodwin",
+    "name": "Safi Mian",
     "title": "Frontend Developer",
-    "description": "Hello I'm Jibrian! I'm a Frontend Developer with a strong passion for building web applications with great user experiences.",
-    "timeZone": "America/New_York",
+    "description": "Hello I'm Safi! I'm a Frontend Developer with a strong passion for building web applications with great user experiences.",
+    "timeZone": "Canada/Saskatchewan",
     "locale": "en-US"
   },
   "personal": {
-    "name": "Jibrian",
-    "surname": "Goodwin",
+    "name": "Safi",
+    "surname": "Mian",
     "role": "Frontend Developer",
-    "email": "trudroxius@gmail.com",
-    "phone": "+15402789610",
-    "city": "Roanoke",
-    "state": "VA",
-    "country": "USA",
-    "resumeURL": "https://drive.google.com/file/d/13kjKTpYiP0EvixD43HjRszJOnfE9Gh8P/view?usp=sharing"
+    "email": "safimian2002@gmail.com",
+    "phone": "+14377173086",
+    "city": "Saskatoon",
+    "state": "SK",
+    "country": "CA",
+    "resumeURL": ""
   },
   "social": {
-    "linkedin": "https://www.linkedin.com/in/jibrian-goodwin/",
-    "github": "https://github.com/Dr0xius",
-    "resume": "https://drive.google.com/drive/folders/1t20K2oQfhOTHVV1cHOkZyIgfVFDSPH8T?dmr=1&ec=wgc-drive-hero-goto"
+    "linkedin": "https://www.linkedin.com/in/safi-mian/",
+    "github": "https://github.com/sum097",
+    "resume": ""
   },
   "content": {
-    "verse": "Copyright © 2026 Jibrian Goodwin"
+    "verse": "Copyright © 2026 Safi Mian"
   }
 }

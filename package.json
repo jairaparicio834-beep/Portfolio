@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@gsap/react": "^2.0.2",
+    "@gsap/react": "^2.1.0",
     "@studio-freight/lenis": "^1.0.33",
     "@uidotdev/usehooks": "^2.4.1",
     "@vercel/analytics": "^1.1.2",

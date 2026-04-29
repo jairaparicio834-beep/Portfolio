@@ -63,7 +63,7 @@ export default function BoldTitle() {
     <section className={styles.section} id="#about">
       <Container className={styles.grid}>
         <TextReveal className={styles.paragraph}>
-          "At Aurora Web Studio, I work as a Frontend Developer building user-facing web applications. I take ownership of my growth — always pushing to write better code and deliver better experiences."
+          At Aurora Web Studio, I work as a Frontend Developer building user-facing web applications. I take ownership of my growth — always pushing to write better code and deliver better experiences.
         </TextReveal>
         <h2 className={styles.boldTitle} ref={boldTitle}>
           <span className={styles.boldTitleLeft} ref={boldTitleLeft}>

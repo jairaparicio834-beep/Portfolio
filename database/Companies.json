@@ -2,22 +2,14 @@
   {
     "position": "Frontend Developer",
     "company": "Aurora Web Studio",
-    "duration": "Oct 2025 – Present",
+    "duration": "Jan 2026 – Present",
     "responsibilities": [
-      "Engineered a custom internal diagnostic suite via React and Firebase, driving a 35% gain in support staff throughput.",
-      "Boosted user conversion rates by 25% through a checkout overhaul, Firebase migration, and a Next.js and TypeScript frontend.",
-      "Collaborated with the COO to refine communication flows, cutting meeting times by 20% and lifting output by 75% via new workflows.",
-      "Created a specialized React debounce hook for search queries, slashing API overhead by 60% to optimize SaaS platform responsiveness."
-    ]
-  },
-  {
-    "position": "Freelance Frontend Developer",
-    "company": "Self Employed",
-    "duration": "Apr 2025 – Sep 2025",
-    "responsibilities": [
-      "Delivered 5 professional websites using HTML5, CSS3 (+ SCSS, BEM), JavaScript, and React best practices, enhancing client satisfaction by adhering to industry standards.",
-      "Improved website performance by optimizing code, implementing caching, and lazy loading images and components, reducing load times by an average of 32%.",
-      "Enhanced websites with SEO, responsive design, multi-platform support, and hosting, ensuring accessibility across all browsers and devices and increasing traffic by an average of 25%."
+   "Built a full-stack AI movie summary platform (HollywoodAI) using Next.js 14, TypeScript, Redux Toolkit, Firebase, and Stripe, implementing subscription-based authentication and AI-generated content delivery.",
+"Developed and deployed a full-stack social media application using Next.js, TypeScript, and Firebase, implementing email/password, sign up, and guest login authentication with features protected behind authenticated routes.",
+"Built real-time post creation, likes, and comments using Firebase Firestore, managing global auth and UI state with Redux and styling a responsive layout — sidebar, post feed, and widgets — with Tailwind CSS.",
+"Transformed a static NFT marketplace into a dynamic, interactive UI with Swiper carousels, skeleton loading states, and real-time Firestore data using React and Firebase.",
+"Managed Git workflows including feature branching, pull requests, and resolving merge conflicts across multiple team branches."
+
     ]
   }
 ]

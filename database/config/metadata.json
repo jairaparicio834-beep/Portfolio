@@ -1,28 +1,28 @@
 {
   "metadata": {
-    "name": "Safi Mian",
+    "name": "Jair Aparicio",
     "title": "Frontend Developer",
-    "description": "Hello I'm Safi! I'm a Frontend Developer with a strong passion for building web applications with great user experiences.",
-    "timeZone": "Canada/Saskatchewan",
+    "description": "I'm Jair, a Frontend Developer focused on building fast, modern web applications. My stack centers around React, Next.js, TypeScript, and Tailwind CSS — I enjoy every layer of the frontend, from architecture to pixel-level UI.",
+    "timeZone": "America/Boise",
     "locale": "en-US"
   },
   "personal": {
-    "name": "Safi",
-    "surname": "Mian",
+    "name": "Jair",
+    "surname": "Aparicio",
     "role": "Frontend Developer",
-    "email": "safimian2002@gmail.com",
-    "phone": "+14377173086",
-    "city": "Saskatoon",
-    "state": "SK",
-    "country": "CA",
-    "resumeURL": ""
+    "email": "jairaparicio834@gmail.com",
+    "phone": "+509702524",
+    "city": "Tonasket",
+    "state": "WA",
+    "country": "USA",
+    "resumeURL": "https://drive.google.com/file/d/1pGXMnQfNa5DRSOcHoYrCgX37UfrqIubI/view?usp=sharing"
   },
   "social": {
-    "linkedin": "https://www.linkedin.com/in/safi-mian/",
-    "github": "https://github.com/sum097",
-    "resume": ""
+    "linkedin": "https://www.linkedin.com/in/ja%C3%ADr-aparicio-a37112304/",
+    "github": "https://github.com/jairaparicio834-beep",
+    "resume": "https://drive.google.com/file/d/1pGXMnQfNa5DRSOcHoYrCgX37UfrqIubI/view?usp=sharing"
   },
   "content": {
-    "verse": "Copyright © 2026 Safi Mian"
+    "verse": "Copyright © 2026 Jair Aparicio"
   }
 }

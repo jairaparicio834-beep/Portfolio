@@ -2,22 +2,22 @@
   {
     "title": "Hollywood AI",
     "image": "/reference/hollywoodai.png",
-    "description": "Developed and deployed a user-friendly platform for AI-powered film summaries, achieving a 95% satisfaction rate based on feedback regarding accuracy and readability, using Next.js, TypeScript, and Firebase. https://hollywoodai-zeta.vercel.app/",
-    "date": "Jan 2026",
+    "description": "Developed and deployed a user-friendly platform for AI-powered film summaries, achieving a 95% satisfaction rate based on feedback regarding accuracy and readability, using Next.js, TypeScript, and Firebase. Check it out at https://jair-advanced-internship-mstz.vercel.app/",
+    "date": "April 2026",
     "type": "Personal Project"
   },
   {
     "title": "Everest NFT Marketplace",
     "image": "/reference/everestnft.png",
-    "description": "Transformed a static single-page application into an interactive UI with animations, transitions, and carousels, utilizing Axios for dynamic data representation and API integration. Employed Git for version control and team collaboration. Check it out at https://jibrian-internship.vercel.app/ ",
-    "date": "Dec 2025",
+    "description": "Transformed a static single-page application into an interactive UI with animations, transitions, and carousels, utilizing Axios for dynamic data representation and API integration. Employed Git for version control and team collaboration. Check it out at https://remote-internship-starter.vercel.app/ ",
+    "date": "March 2026",
     "type": "Frontend Developer Internship"
   },
   {
     "title": "Social Media App",
     "image": "/reference/socialmediaapp.png",
-    "description": "Developed a full-stack social media app with features including posts, post feeds, likes, modals, and authentication, utilizing Firebase for database management. Check it out at https://social-media-app-eight-orpin.vercel.app/",
-    "date": "Sep 2025",
+    "description": "Developed a full-stack social media app with features including posts, post feeds, likes, modals, and authentication, utilizing Firebase for database management. Check it out at  https://social-media-app-gamma-livid.vercel.app/",
+    "date": "April 2026",
     "type": "Personal Project"
   }
 ]

@@ -2,7 +2,7 @@
   {
     "position": "Frontend Developer",
     "company": "Aurora Web Studio",
-    "duration": "Jan 2026 – Present",
+    "duration": "Dec 2025 – Present",
     "responsibilities": [
    "Built a full-stack AI movie summary platform (HollywoodAI) using Next.js 14, TypeScript, Redux Toolkit, Firebase, and Stripe, implementing subscription-based authentication and AI-generated content delivery.",
 "Developed and deployed a full-stack social media application using Next.js, TypeScript, and Firebase, implementing email/password, sign up, and guest login authentication with features protected behind authenticated routes.",
